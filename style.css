@@ -1,0 +1,23 @@
+
+.head1{
+    border-color: black;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: aquamarine;
+}
+.head2{
+    border-color: black;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color:cyan;
+}
+.body{
+    background-color:lightyellow;
+}
+.form1{
+    font-weight: bold;
+}
+.indexbody{
+    color: black;
+    background-color: aquamarine;
+}
